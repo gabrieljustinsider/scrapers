@@ -28,7 +28,7 @@ class SiteSweetFemdomPerformerSpider(BasePerformerScraper):
         'external_id': r'model/(.*)/'
     }
 
-    name = 'SweetFemdomFemalePerformer'
+    name = 'SweetFemdomPerformer'
     network = 'Sweet Femdom'
 
     start_urls = [
